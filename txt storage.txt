@@ -1,0 +1,11 @@
+﻿casual,comfy,everyday,1,2,4
+sporty,5,4,4
+summer,spring,1,5,5
+chilly,autumn,7,2,3
+formal,classic,0,0,0
+glamourous,elegant,extravagant,2,3,0
+minimalistic,chic,cool,2,1,5
+grunge,edgy,6,1,5
+artsy,elevated,random,0,5,2
+fun,3,1,1
+soft,3,3,0
